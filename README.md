@@ -12,7 +12,7 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🔭 I’m currently working on Build Full Stack Website<br>🤝 I’m looking for help with learning some that thing that i want<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about myself<br>⚡ Fun fact i'm a Developer
+🔭 I’m currently working on Full Stack Web Applications<br>🤝 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about JavaScript, React, Node.js<br>⚡ Fun fact: I debug more than I code 😅
 
 ---
 
