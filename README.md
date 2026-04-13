@@ -1,9 +1,9 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="[/mnt/data/Black Minimal Business Personal Profile Linkedin Banner.png](https://i.ibb.co.com/Q7730pzN/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)" alt="banner" width="100%"/>
+  ![image alt](https://github.com/Md-Abdullah303/Md-Abdullah303/blob/7e81b7243f4bd74846f4d3a392ff1d0eae19f4d9/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 </p>
 
-![image alt](https://github.com/Md-Abdullah303/Md-Abdullah303/blob/7e81b7243f4bd74846f4d3a392ff1d0eae19f4d9/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+
 
 <!-- 🔥 Animated Typing -->
 <p align="center">
