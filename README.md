@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="/mnt/data/Black Minimal Business Personal Profile Linkedin Banner.png" alt="banner" width="100%"/>
+  <img src="[/mnt/data/Black Minimal Business Personal Profile Linkedin Banner.png](https://i.ibb.co.com/Q7730pzN/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)" alt="banner" width="100%"/>
 </p>
 
 <!-- 🔥 Animated Typing -->
