@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+MD+Abdullah;Full+Stack+Web+Developer;MERN+Stack+Developer;Passionate+About+Coding+🔥" />
 </p>
 
-# 💫 About Me :
+# 💫 About Me:
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🔭 I’m currently working on Full Stack Web Applications<br>🤝 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about JavaScript, React, Node.js<br>⚡ Fun fact: I debug more than I code 😅
