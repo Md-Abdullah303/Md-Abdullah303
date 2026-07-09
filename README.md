@@ -64,7 +64,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Abdullah303&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Abdullah303&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph">
 </div>
 
 
