@@ -72,7 +72,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Md-Abdullah303&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&accent_color=58a6ff&text_color=c9d1d9" alt="Random Dev Quote" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Md-Abdullah303&icon=2&color=0)](https://visitcount.itsvg.in)
