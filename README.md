@@ -62,4 +62,6 @@ I am a passionate **Full Stack Web Developer** with a strong foundation in build
 
 
 # 📊 GitHub Analytics
-![](https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=shadow_blue&hide_border=false)<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=shadow_blue&hide_border=false" />
+</p>
