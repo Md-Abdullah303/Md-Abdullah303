@@ -34,8 +34,6 @@ I am a passionate **Full Stack Web Developer** with a strong foundation in build
 
 ---
 
-# 📊 GitHub Analytics
-![](https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=shadow_blue&hide_border=false)<br/>
 
 ### 📈 Contribution Graph
 <p align="center">
@@ -61,3 +59,7 @@ I am a passionate **Full Stack Web Developer** with a strong foundation in build
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Md-Abdullah303&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
+
+
+# 📊 GitHub Analytics
+![](https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=shadow_blue&hide_border=false)<br/>
