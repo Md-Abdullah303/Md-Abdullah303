@@ -1,5 +1,5 @@
 <!-- 🔥 Banner -->
-<p align="center"> 
+<p align="center">
   <img src="https://github.com/Md-Abdullah303/Md-Abdullah303/blob/7e81b7243f4bd74846f4d3a392ff1d0eae19f4d9/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png" width="100%">
 </p>
 
