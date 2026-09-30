@@ -34,6 +34,12 @@ I am a passionate **Full Stack Web Developer** with a strong foundation in build
 
 ---
 
+# 📊 GitHub Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=shadow_blue&hide_border=false" />
+</p>
+
+---
 
 ### 📈 Contribution Graph
 <p align="center">
@@ -42,12 +48,6 @@ I am a passionate **Full Stack Web Developer** with a strong foundation in build
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&accent_color=58a6ff&text_color=c9d1d9" />
-</p>
-
----
 
 ## 🌐 Socials & Badges
 <p align="center">
@@ -56,12 +56,16 @@ I am a passionate **Full Stack Web Developer** with a strong foundation in build
   <a href="https://discord.gg/md_abdullah5146"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Md-Abdullah303&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-
-# 📊 GitHub Analytics
+### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=shadow_blue&hide_border=false" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&accent_color=58a6ff&text_color=c9d1d9" />
 </p>
+
+
