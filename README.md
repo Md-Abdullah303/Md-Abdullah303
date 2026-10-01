@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I am a passionate **Full Stack Web Developer** specializing in building modern web applications with **React, Next.js, and Node.js**. I focus on writing clean, scalable code and crafting responsive user interfaces.
+I am a passionate **Full Stack Web Developer** specializing in building scalable web applications with **React, Next.js, and Node.js**. I focus on clean code architecture, intuitive UI, and robust backend integrations.
 
 - 📍 **Location:** Chandpur, Bangladesh
-- 🔭 **Current Focus:** Next.js & Full Stack Architecture
-- 🚀 **Currently Building:** Dynamic SaaS & booking platforms
+- 🔭 **Current Focus:** Next.js & Full-Stack Systems
+- 🚀 **Featured Projects:** LegalEase, IdeaVault & modern SaaS web apps
 - 💬 **Ask me about:** React, Node.js, Express, MongoDB, Tailwind CSS
 - 📫 **Connect with me:** [mdabdulla01715940008@gmail.com](mailto:mdabdulla01715940008@gmail.com)
 
@@ -32,8 +32,8 @@ I am a passionate **Full Stack Web Developer** specializing in building modern w
   <a href="https://facebook.com/khan.abdullha.284951" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://discord.gg/md_abdullah5146" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discordapp.com/users/md_abdullah5146" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-md__abdullah5146-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ I am a passionate **Full Stack Web Developer** specializing in building modern w
   <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=nextui&logoColor=white" />
 </p>
 
-#### ⚙️️ Backend & Database
+#### ⚙ Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -102,7 +102,7 @@ I am a passionate **Full Stack Web Developer** specializing in building modern w
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-<!-- Reliable Profile Views Counter -->
+<!-- Stable Profile Views Counter -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMd-Abdullah303&count_bg=%231f6feb&title_bg=%230d1117&icon=github.svg&icon_color=%23ffffff&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Md-Abdullah303/count.svg" alt="Profile Views" />
 </p>
