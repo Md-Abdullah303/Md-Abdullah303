@@ -88,15 +88,6 @@ I am a passionate **Full Stack Web Developer** specializing in building scalable
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Abdullah303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -105,4 +96,13 @@ I am a passionate **Full Stack Web Developer** specializing in building scalable
 <!-- Stable Profile Views Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/Md-Abdullah303/count.svg" alt="Profile Views" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Abdullah303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Md-Abdullah303&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
