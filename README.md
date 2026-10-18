@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I am a passionate **Full Stack Web Developer** specializing in building scalable web applications with **React, Next.js, and Node.js**. I focus on clean code architecture, intuitive UI, and robust backend integrations.
+I am a passionate **MERN Stack Web Developer** specializing in building scalable web applications with **React, Next.js, and Node.js**. I focus on clean code architecture, intuitive UI, and robust backend integrations.
 
 - 📍 **Location:** Chandpur, Bangladesh
 - 🔭 **Current Focus:** Next.js & Full-Stack Systems
