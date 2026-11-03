@@ -1,6 +1,6 @@
 <!-- 🔥 Header & Banner Section -->
 <p align="center">
-  <img src="Gemini_Generated_Image_lxi320lxi320lxi3.jpg" width="100%" style="border-radius: 15px;" alt="MD Abdullah Profile Banner">
+  <img src="Gemini_Generated_Image_9q3ock9q3ock9q3o.jpg" width="100%" style="border-radius: 15px;" alt="MD Abdullah Profile Banner">
 </p>
 
 <p align="center">
