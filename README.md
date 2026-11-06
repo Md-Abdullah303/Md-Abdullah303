@@ -1,7 +1,7 @@
 <!-- 🔥 Header & Banner Section -->
 <p align="center">
   <img src="Gemini_Generated_Image_uwj4ftuwj4ftuwj4.jpg" width="100%" style="border-radius: 15px;" alt="MD Abdullah Profile Banner">
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+MD+Abdullah;Full+Stack+MERN+Architect;Crafting+Modern+SaaS+Applications;Passionate+About+Clean+Code+🔥" alt="Typing SVG" />
