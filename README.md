@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+MD+Abdullah;Full+Stack+MERN+Architect;Crafting+Modern+SaaS+Applications;Passionate+About+Clean+Code+🔥" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="center">   
   <a href="https://linkedin.com/in/khanmd-abdullah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
